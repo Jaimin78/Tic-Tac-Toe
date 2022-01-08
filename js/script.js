@@ -1,4 +1,4 @@
-let audioturn = new Audio("/img/Tap.mp3");
+let audioturn = new Audio("https://jaimin78.github.io/Tic-Tac-Toe/img/Tap.mp3");
 let turn = "X";
 let isgameover = false;
 
